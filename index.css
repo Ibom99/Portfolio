@@ -17,6 +17,7 @@ html,body{
     background-repeat: no-repeat;
     position: relative;
     background-color: black;
+    scroll-behavior: smooth;
 }
 
 /*   ANIMATION BACKGROUND */
@@ -345,10 +346,10 @@ animation-duration: 1s;
 /* .project-item:hover{
   box-shadow: 4.0px 8.0px 8.0px white;
 } */
-.project-img{
+/* .project-img{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-}
+} */
 .project-title{
     font-size: 1.2rem;
     margin: 10px 0px 0px 10px;
